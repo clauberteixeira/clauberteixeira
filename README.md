@@ -4,7 +4,7 @@
 
 Sou desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, apaixonado por transformar ideias em soluções digitais que geram resultado real para empresas e negócios.
 
-Além da área técnica, sou empreendedor: co-fundador da **Let's Go Software**, onde desenvolvemos sistemas sob medida para o mercado, e de uma empresa de marketing digital — unindo tecnologia e estratégia para entregar resultados completos.
+Além da área técnica, sou empreendedor: fundador da **[Iddigital](https://www.iddigitalbr.com.br)**, agência de publicidade com mais de 10 anos no mercado impulsionando marcas para o sucesso — e co-fundador da **[Let's Go Software](https://github.com/LetsgoSoftwareMT)**, onde desenvolvemos sistemas e soluções digitais sob medida para empresas.
 
 ---
 
@@ -35,7 +35,7 @@ Além da área técnica, sou empreendedor: co-fundador da **Let's Go Software**,
 | Empresa | Área |
 |---|---|
 | 🖥️ **Let's Go Software** | Desenvolvimento de Sistemas & Soluções Digitais |
-| 📣 **Iddigital** | Estratégia, Tráfego e Presença Online |
+| 📣 **[Iddigital](https://www.iddigitalbr.com.br)** | Agência de Publicidade · +10 anos impulsionando marcas |
 
 ---
 
