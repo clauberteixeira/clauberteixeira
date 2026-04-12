@@ -35,7 +35,7 @@ Além da área técnica, sou empreendedor: co-fundador da **Let's Go Software**,
 | Empresa | Área |
 |---|---|
 | 🖥️ **Let's Go Software** | Desenvolvimento de Sistemas & Soluções Digitais |
-| 📣 **Marketing Digital** | Estratégia, Tráfego e Presença Online |
+| 📣 **Iddigital** | Estratégia, Tráfego e Presença Online |
 
 ---
 
